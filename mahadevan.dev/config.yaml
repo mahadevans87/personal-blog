@@ -1,0 +1,29 @@
+baseURL: https://www.mahadevan.dev/
+languageCode: en-us
+title: Mahadevan Sreenivasan
+theme: mini
+paginate: 3
+
+hasCJKLanguage: true
+permalinks:
+  posts: /posts/:title/
+
+googleAnalytics: UA-123-45
+disqusShortname: nodejh
+
+markup:
+  highlight:
+    guessSyntax: true
+    style: emacs
+
+social:
+  github: https://github.com/mahadevans87
+  twitter: https://twitter.com/_mahadevan
+
+params:
+  author: Mahadevan Sreenivasan
+  bio: Lead Software Engineer with Trimble Inc
+  description: My Blog on Software Engineering, Book Reviews, Stock Markets(?)
+  enableRSS: true
+  enableComments: true
+  enableGoogleAnalytics: true
