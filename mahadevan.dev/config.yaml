@@ -8,8 +8,8 @@ hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
 
-googleAnalytics: UA-123-45
-disqusShortname: nodejh
+googleAnalytics: G-61T83FM3XB
+disqusShortname: mahadevan-dev
 
 markup:
   highlight:
