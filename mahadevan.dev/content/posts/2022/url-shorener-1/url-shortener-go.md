@@ -112,7 +112,7 @@ func Base62Encode(number uint64) string {
 
 Since the title of the post has Golang and Redis, we are obviously going to use both of them to build our URL shortener service.
 
-![Design](url-shortener-system-design.png)
+![Design](images/url-shortener-system-design.png)
 
 Redis is a fast key-value store and for our purposes, it seems like an ideal solution. For the webserver in go, I used go-fiber inspried by [Akhil Sharma's YT channel](https://www.youtube.com/watch?v=3ExDEeSnyvE). If you are from a Node.JS / Express background, you should feel at home with go-fiber.
 
